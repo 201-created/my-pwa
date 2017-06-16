@@ -44,7 +44,10 @@
     "loader.js": "^4.2.3"
   },
   "engines": {
-    "node": ">= 4"
+    "node": "6.x.x"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "fastboot-app-server": "^1.0.0-rc.5"
+  }
 }

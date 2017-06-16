@@ -12,6 +12,9 @@ module.exports = function(defaults) {
     'esw-cache-fallback': {
       patterns: [ '/' ],
       version: '1'
+    },
+    'ember-welcome-page': {
+      enabled: true
     }
   });
 
